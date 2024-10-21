@@ -8,6 +8,7 @@ mod comp_t_enum;
 mod char_bool_unit;
 mod reference_borrowing;
 mod statements_and_expressions;
+mod flow_control;
 
 
 fn main() {

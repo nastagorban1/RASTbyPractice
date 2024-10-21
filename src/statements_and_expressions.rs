@@ -1,15 +1,17 @@
  // Make it work with two ways
-   fn first (){
-     let v = {
-         let mut x = 1;
-         x += 2;
-         x
-     };
- }
+fn first() {
+    let v = {
+        let mut x = 1;
+        x += 2;
+        x
+    };
 
-   assert_eq!(v, 3);
+    assert_eq!(v, 3);
+    println!("Success!");
+}
 
-   println!("Success!");
+
+
 
     fn second () {
         let v = {
