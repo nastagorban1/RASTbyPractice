@@ -1,0 +1,1 @@
+C:\Users\W-00050\Desktop\project\untitled2\target\debug\untitled2.exe: C:\Users\W-00050\Desktop\project\untitled2\src\main.rs C:\Users\W-00050\Desktop\project\untitled2\src\numbers.rs C:\Users\W-00050\Desktop\project\untitled2\src\ownership.rs
