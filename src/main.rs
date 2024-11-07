@@ -8,6 +8,10 @@ mod comp_t_enum;
 mod char_bool_unit;
 mod reference_borrowing;
 mod statements_and_expressions;
+mod flow_control;
+mod pattern_match_match_matches;
+mod Method_Associated_function;
+mod generics_traits;
 
 
 fn main() {
@@ -19,7 +23,7 @@ fn main() {
        ownership::six();
        ownership::seven();
 
-         numbers::first();
+    numbers::first();
     numbers::second();
     numbers::third();
     numbers::four();
