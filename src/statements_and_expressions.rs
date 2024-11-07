@@ -36,6 +36,7 @@ fn sum(x: i32, y: i32) ->i32 {
     x + y}
 
 
+<<<<<<< HEAD
 // Fill in the blank
 enum Foo {
     Bar(u8)
@@ -50,3 +51,6 @@ fn main() {
         println!("Success!");
     }
 }
+=======
+
+>>>>>>> dbeacee6d410661281263dd756d27092c449f838
